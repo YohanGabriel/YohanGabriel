@@ -1,9 +1,18 @@
-# Olá! Eu sou o Gabriel Almeida 🐲
+# Olá! Eu sou o Gabriel Almeida 🐲 
 
 - 🐱‍👤20 anos.
 - 🐱‍🐉Estudante em constante evolução. 
-- 🖖🏻Curioso e consequentemente apaixonado por tecnologia, viagens e expansão do conhecimento.
+- 🖖🏻Curioso e consequentemente apaixonado por tecnologia, viagens e expansão do conhecimento. 
 - 🐱‍👓Atualmente focado em melhorar as habilidades Front-end (HTML5 - CSS3 - JavaScript) e querendo aprender Python.
+
+##
+<div align="center" >
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://komarev.com/ghpvc/?username=YohanGabriel&color=blue" alt="YohanGabriel" />  
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+</div> 
+
+##
 
 <div>
   <a href="https://github.com/YohanGabriel">
@@ -27,11 +36,10 @@ procurar no "dev icons" as imagens do que eu estiver aprendendo e trocar aqui
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   -->
-  
-  ##
-  
+##  
  <div>
      <a href="https://www.linkedin.com/in/gabriel-almeida-yohan" target="_blank"><img align="center" alt="Gabriel-Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   
    
    ![Snake animation](https://github.com/YohanGabriel/YohanGabriel/blob/output/github-contribution-grid-snake.svg)
  
