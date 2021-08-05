@@ -1,5 +1,5 @@
-### Olá! Eu sou o Gabriel Almeida 🐲
-##
+# Olá! Eu sou o Gabriel Almeida 🐲
+
 - 🐱‍👤20 anos.
 - 🐱‍🐉Estudante em constante evolução. 
 - 🖖🏻Curioso e consequentemente apaixonado por tecnologia, viagens e expansão do conhecimento.
