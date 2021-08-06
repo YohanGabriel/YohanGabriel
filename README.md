@@ -6,13 +6,6 @@
 - 🐱‍👓Atualmente focado em melhorar as habilidades Front-end (HTML5 - CSS3 - JavaScript) e querendo aprender Python.
 
 ##
-<div align="center" >
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://komarev.com/ghpvc/?username=YohanGabriel&color=blue" alt="YohanGabriel" />  
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-</div> 
-
-##
 
 <div>
   <a href="https://github.com/YohanGabriel">
@@ -54,3 +47,11 @@ Exemplo de mais icones de redes sociais
   <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   -->
   
+##
+<div align="center" >
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://komarev.com/ghpvc/?username=YohanGabriel&color=blue" alt="YohanGabriel" />  
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+</div> 
+
+##
