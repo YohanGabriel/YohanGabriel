@@ -1,6 +1,6 @@
 # Olá! Eu sou o Gabriel Almeida 🐲 
 
-- 🐱‍👤20 anos.
+- 🐱‍👤21 anos.
 - 🐱‍🐉Estudante em constante evolução. 
 - 🖖🏻Curioso e consequentemente apaixonado por tecnologia, viagens e expansão do conhecimento. 
 - 🐱‍👓Atualmente focado em melhorar as habilidades Front-end (HTML5 - CSS3 - JavaScript) e querendo aprender Python.
